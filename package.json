@@ -1,0 +1,30 @@
+{
+  "name": "Phagocytosis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCoban/Phagocytosis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HCoban/Phagocytosis/issues"
+  },
+  "homepage": "https://github.com/HCoban/Phagocytosis#readme",
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "jquery": "^3.1.0",
+    "webpack": "^1.13.2"
+  }
+}
